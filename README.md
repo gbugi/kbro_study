@@ -26,7 +26,7 @@
 | 17 | 7주차 | 프로그래머스 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Lv2 |
 | 18 | 7주차 | 프로그래머스 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Lv3 |
 | 19 | 7주차 | 프로그래머스 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | Lv3 |
-| 20 | 8주차 | 백준 | [미로 탐](https://www.acmicpc.net/problem/2178) | 실버1 |
-| 21 | 8주차 | 프로그래머스 | [가장 먼 노](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | Lv3 |
+| 20 | 8주차 | 백준 | [미로 탐색](https://www.acmicpc.net/problem/2178) | 실버1 |
+| 21 | 8주차 | 프로그래머스 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | Lv3 |
 | 22 | 8주차 | 프로그래머스 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | Lv3 |
 
