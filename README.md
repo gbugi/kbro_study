@@ -30,4 +30,5 @@
 | 21 | 8주차 | 프로그래머스 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | Lv3 |
 | 22 | 8주차 | 프로그래머스 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | Lv3 |
 | 23 | 9주차 | 프로그래머스 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | 2023 KAKAO BLIND RECRUITMENT, Lv2 |
-
+| 24 | 9주차 | 백준 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 실버2 |
+| 25 | 9주차 | 백준 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 실버2 |
