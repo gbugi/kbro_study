@@ -32,3 +32,6 @@
 | 23 | 9주차 | 프로그래머스 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | 2023 KAKAO BLIND RECRUITMENT, Lv2 |
 | 24 | 9주차 | 백준 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 실버2 |
 | 25 | 9주차 | 백준 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 실버2 |
+| 26 | 10주차 | 프로그래머스 | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | LV3 |
+| 27 | 10주차 | 프로그래머스 | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | LV3 |
+| 28 | 10주차 | 백준 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | 골드4 |
