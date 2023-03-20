@@ -35,3 +35,10 @@
 | 26 | 10주차 | 프로그래머스 | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | LV3 |
 | 27 | 10주차 | 프로그래머스 | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | LV3 |
 | 28 | 10주차 | 백준 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | 골드4 |
+| 29 | 11주차 | 백준 | [파티](https://www.acmicpc.net/problem/1238) | 골드3 |
+| 30 | 11주차 | 백준 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | 골드4 |
+| 31 | 11주차 | 백준 | [타임머신](https://www.acmicpc.net/problem/11657) | 골드4 |
+| 32 | 11주차 | 프로그래머스 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | LV3 |
+| 33 | 12주차 | 백준 | [전깃줄](https://www.acmicpc.net/problem/2565) | 골드5 |
+| 34 | 12주차 | 백준 | [합분해](https://www.acmicpc.net/problem/2225) | 골드5 |
+| 35 | 12주차 | 백준 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | 골드5 |
