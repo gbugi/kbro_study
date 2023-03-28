@@ -42,3 +42,6 @@
 | 33 | 12주차 | 백준 | [전깃줄](https://www.acmicpc.net/problem/2565) | 골드5 |
 | 34 | 12주차 | 백준 | [합분해](https://www.acmicpc.net/problem/2225) | 골드5 |
 | 35 | 12주차 | 백준 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | 골드5 |
+| 36 | 13주차 | 백준 | [LCS](https://www.acmicpc.net/problem/9251) | 골드5 |
+| 37 | 13주차 | 백준 | [연속합](https://www.acmicpc.net/problem/1912) | 실버2 |
+| 38 | 13주차 | 백준 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 실버2 |
