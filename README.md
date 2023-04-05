@@ -45,3 +45,8 @@
 | 36 | 13주차 | 백준 | [LCS](https://www.acmicpc.net/problem/9251) | 골드5 |
 | 37 | 13주차 | 백준 | [연속합](https://www.acmicpc.net/problem/1912) | 실버2 |
 | 38 | 13주차 | 백준 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 실버2 |
+| 39 | 14주차 | 백준 | [친구](https://www.acmicpc.net/problem/1058) | 실버2 |
+| 40 | 14주차 | 백준 | [한줄로 서기](https://www.acmicpc.net/problem/1138) | 실버2 |
+| 41 | 14주차 | 백준 | [물병](https://www.acmicpc.net/problem/1052) | 실버1 |
+| 42 | 14주차 | 백준 | [Z](https://www.acmicpc.net/problem/1074) | 실버1 |
+| 43 | 14주차 | 백준 | [트리](https://www.acmicpc.net/problem/1068) | 골드4 |
