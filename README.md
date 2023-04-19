@@ -50,3 +50,7 @@
 | 41 | 14주차 | 백준 | [물병](https://www.acmicpc.net/problem/1052) | 실버1 |
 | 42 | 14주차 | 백준 | [Z](https://www.acmicpc.net/problem/1074) | 실버1 |
 | 43 | 14주차 | 백준 | [트리](https://www.acmicpc.net/problem/1068) | 골드4 |
+| 44 | 15주차 | 백준 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1068) | 골드3 |
+| 45 | 15주차 | 백준 | [전구와 스위치](https://www.acmicpc.net/problem/1068) | 골드5 |
+| 46 | 15주차 | 백준 | [겹치는 건 싫어](https://www.acmicpc.net/problem/1068) | 실버1 |
+| 47 | 15주차 | 백준 | [K보다 큰 구간](https://www.acmicpc.net/problem/1068) | 실버3 |
