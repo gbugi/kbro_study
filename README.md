@@ -56,4 +56,4 @@
 | 47 | 15주차 | 백준 | [K보다 큰 구간](https://www.acmicpc.net/problem/1068) | 실버3 |
 | 48 | 16주차 | 백준 | [귀여운 라이언](https://www.acmicpc.net/problem/15565) | 실버1 |
 | 49 | 16주차 | 백준 | [내려가기](https://www.acmicpc.net/problem/2096) | 골드5 |
-| 50 | 16주차 | 백준 | [미로 탈출하기](https://www.acmicpc.net/problem/17090) | 실버1 |
+| 50 | 16주차 | 백준 | [미로 탈출하기](https://www.acmicpc.net/problem/17090) | 골드3 |
