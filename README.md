@@ -59,3 +59,7 @@
 | 50 | 16주차 | 백준 | [미로 탈출하기](https://www.acmicpc.net/problem/17090) | 골드3 |
 | 51 | 17주차 | 프로그래머스 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | 2020 KAKAO BLIND RECRUITMENT, LV2 |
 | 52 | 17주차 | 백준 | [미로만들기](https://www.acmicpc.net/problem/17090) | 골드4 |
+| 52 | 18주차 | 프로그래머스 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | LV2 |
+| 52 | 18주차 | 백준 | [신입 사원](https://www.acmicpc.net/problem/1946) | 실버1 |
+| 52 | 18주차 | 백준 | [A와 B](https://www.acmicpc.net/problem/12904) | 골드5 |
+| 52 | 18주차 | 백준 | [테트로미노](https://www.acmicpc.net/problem/14500) | 골드4 |
