@@ -68,3 +68,4 @@
 | 59 | 19주차 | 백준 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | 골드4 |
 | 60 | 20주차 | 프로그래머스 | [이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | 2023 KAKAO BLIND RECRUITMENT, LV2 |
 | 61 | 21주차 | 백준 | [빗물](https://www.acmicpc.net/problem/14719) | 골드5 |
+| 62 | 22주차 | 백준 | [개근상](https://www.acmicpc.net/problem/1563) | 골드4 |
