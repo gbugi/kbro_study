@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Kbro17_1 {
+public class Kbro17_2 {
     static class Node {
         int x;
         int y;
