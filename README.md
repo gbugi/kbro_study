@@ -70,3 +70,4 @@
 | 61 | 21주차 | 백준 | [빗물](https://www.acmicpc.net/problem/14719) | 골드5 |
 | 62 | 22주차 | 백준 | [개근상](https://www.acmicpc.net/problem/1563) | 골드4 |
 | 63 | 23주차 | 프로그래머스 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | LV2 |
+| 64 | 24주차 | 프로그래머스 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | LV2 |
