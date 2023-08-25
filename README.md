@@ -73,3 +73,4 @@
 | 64 | 24주차 | 프로그래머스 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | LV2 |
 | 65 | 25주차 | 프로그래머스 | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | LV2 |
 | 66 | 26주차 | 프로그래머스 | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | LV2 |
+| 67 | 27주차 | 프로그래머스 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | LV2 |
